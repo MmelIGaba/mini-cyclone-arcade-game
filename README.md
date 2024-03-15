@@ -10,5 +10,6 @@ instruction-set manuals:
     https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
 
     ![alt text]([./image.png](https://github.com/MmelIGaba/mini-cyclone-arcade-game/blob/main/image.png)https://github.com/MmelIGaba/mini-cyclone-arcade-game/blob/main/image.png?raw=true "Sketch-of-circuit")
+    ![alt text]([http://url/to/img.png](https://github.com/MmelIGaba/mini-cyclone-arcade-game/blob/main/image.png)https://github.com/MmelIGaba/mini-cyclone-arcade-game/blob/main/image.png)https://github.com/MmelIGaba/mini-cyclone-arcade-game/blob/main/image.png)https://github.com/MmelIGaba/mini-cyclone-arcade-game/blob/main/image.png)
     ![plot](./image.png)
     
