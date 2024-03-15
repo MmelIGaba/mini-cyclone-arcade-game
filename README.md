@@ -10,4 +10,5 @@ instruction-set manuals:
     https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
 
     ![alt text](image.png?raw=true "Sketch-of-circuit")
+    ![plot](image.png)
     
