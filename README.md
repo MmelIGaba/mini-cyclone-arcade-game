@@ -9,7 +9,7 @@ instruction-set manuals:
     http://ww1.microchip.com/downloads/en/devicedoc/atmel-0856-avr-instruction-set-manual.pdf
     https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
 
-    ![alt text]([./image.png](https://github.com/MmelIGaba/mini-cyclone-arcade-game/blob/main/image.png)https://github.com/MmelIGaba/mini-cyclone-arcade-game/blob/main/image.png?raw=true "Sketch-of-circuit")
-    ![alt text]([http://url/to/img.png](https://github.com/MmelIGaba/mini-cyclone-arcade-game/blob/main/image.png)https://github.com/MmelIGaba/mini-cyclone-arcade-game/blob/main/image.png)https://github.com/MmelIGaba/mini-cyclone-arcade-game/blob/main/image.png)https://github.com/MmelIGaba/mini-cyclone-arcade-game/blob/main/image.png)
-    ![plot](./image.png)
-    
+
+## Circuit - Diagram
+![image](https://github.com/MmelIGaba/mini-cyclone-arcade-game/assets/125876492/d5c70014-1540-42a8-8094-9dac7da07c03)
+
