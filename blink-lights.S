@@ -6,7 +6,7 @@
 #include "avr/io.h"
 #define __SFR_OFFSET 0
 
-.global mainSS
+.global main
 .global blink
 
 //Sets the functions used 
